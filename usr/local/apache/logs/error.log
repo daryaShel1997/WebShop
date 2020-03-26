@@ -1,0 +1,24 @@
+[Wed Mar 25 09:43:51 2020] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Mar 25 09:43:51 2020] [warn] pid file Z:/usr/local/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 25 09:43:52 2020] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Mar 25 09:43:52 2020] [notice] Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/1.0.1c PHP/5.3.13 configured -- resuming normal operations
+[Wed Mar 25 09:43:52 2020] [notice] Server built: Apr 20 2012 18:42:30
+[Wed Mar 25 09:43:52 2020] [notice] Parent: Created child process 7092
+[Wed Mar 25 09:43:52 2020] [notice] Disabled use of AcceptEx() WinSock2 API
+[Wed Mar 25 09:43:53 2020] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Mar 25 09:43:53 2020] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Mar 25 09:43:53 2020] [notice] Child 7092: Child process is running
+[Wed Mar 25 09:43:53 2020] [notice] Child 7092: Acquired the start mutex.
+[Wed Mar 25 09:43:53 2020] [notice] Child 7092: Starting 25 worker threads.
+[Wed Mar 25 09:43:53 2020] [notice] Child 7092: Listening on port 443.
+[Wed Mar 25 09:43:53 2020] [notice] Child 7092: Listening on port 8648.
+[Wed Mar 25 09:43:53 2020] [notice] Child 7092: Listening on port 443.
+[Wed Mar 25 09:43:53 2020] [notice] Child 7092: Listening on port 80.
+[Wed Mar 25 10:05:38 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/shop/www/favicon.ico, referer: http://shop/
+[Wed Mar 25 10:14:19 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/shop/www/favicon.ico, referer: http://shop/
+[Wed Mar 25 10:20:34 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/shop/www/favicon.ico
+[Wed Mar 25 10:40:09 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/shop/www/images/button-search-hover.png, referer: http://shop/css/style.css
+[Wed Mar 25 10:41:38 2020] [error] [client 127.0.0.1] script 'Z:/home/shop/www/search-filter.php' not found or unable to stat, referer: http://shop/index.php
+[Wed Mar 25 10:41:47 2020] [error] [client 127.0.0.1] script 'Z:/home/shop/www/search-filter.php' not found or unable to stat, referer: http://shop/index.php
+[Wed Mar 25 13:27:22 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/shop/www/favicon.ico
+[Wed Mar 25 13:48:41 2020] [error] [client 127.0.0.1] File does not exist: Z:/home/shop/www/favicon.ico
